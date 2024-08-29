@@ -9,14 +9,14 @@ S3 has different classes because the following factors make S3 Classes different
 - Data will be accessed instantly
 - You will be charged based on the number of gigabytes you use in a month.
 
-if you don't need to access data frequently you can use:
+if you don't need to access data frequently, you can use:
 ### S3 Standard-IA
 - This can handle two simultaneous AZ failures because data is stored across multiple AZs
 - You will be charged based on the number of gigabytes you use in a month.
 - Cheaper that standard
 - You have a retrieval fee
-- Has a minimum duration charge of 90 days -If you store an object in these classes
-  and delete it before the minimum duration ,you will still be charged as if the object was stored for the full 90 days.
+- Has a minimum duration charge of 90 days If you store an object in these classes
+  and delete it before the minimum duration, you will still be charged as if the object was stored for the full 90 days.
 
 - Minimum size charge of 128 KB per object- If you store an object in these storage classes that is smaller than 128 KB, Amazon S3 will still charge you as if the object were 128 KB in size.
 - If data is accessed frequently or files are too small then you will pay more

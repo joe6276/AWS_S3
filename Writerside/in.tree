@@ -10,4 +10,5 @@
     <toc-element topic="S3_introduction.md"/>
     <toc-element topic="S3_Introduction_demo.md"/>
     <toc-element topic="S3_storage_Class.md"/>
+    <toc-element topic="S3_CLI.md"/>
 </instance-profile>
