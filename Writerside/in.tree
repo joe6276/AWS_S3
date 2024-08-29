@@ -8,4 +8,5 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="S3_introduction.md"/>
+    <toc-element topic="S3_Introduction_demo.md"/>
 </instance-profile>
