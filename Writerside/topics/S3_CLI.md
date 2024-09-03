@@ -97,5 +97,5 @@ You can do the same with folder, you will just use --recursive command.
 ###  Sync
 Will make sure your directory is in Sync with your bucket
 ```Docker
-awa sync / s3://bucket
+aws sync / s3://bucket
 ```

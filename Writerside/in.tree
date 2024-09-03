@@ -10,4 +10,11 @@
     <toc-element topic="S3_Introduction_demo.md"/>
     <toc-element topic="S3_storage_Class.md"/>
     <toc-element topic="S3_CLI.md"/>
+    <toc-element topic="S3_Versioning.md"/>
+    <toc-element topic="S3_Lifecycle_Policies.md"/>
+    <toc-element topic="S3_Static_Hosting.md"/>
+    <toc-element topic="S3_Replication.md"/>
+    <toc-element topic="S3_Encryption.md"/>
+    <toc-element topic="S3_Presigned_URL.md"/>
+    <toc-element topic="S3_Object_Lock.md"/>
 </instance-profile>
